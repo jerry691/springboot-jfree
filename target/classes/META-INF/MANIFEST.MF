@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: nanda
+Build-Jdk: 10.0.2
+Implementation-Title: spring-boot-report-example
+Implementation-Version: 0.0.2
+Implementation-Vendor-Id: com.jorgealfonsogarcia
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ report-example/
+Created-By: Maven Integration for Eclipse
+
